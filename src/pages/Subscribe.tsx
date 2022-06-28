@@ -21,7 +21,7 @@ export default function Subscribe() {
       }
     })
 
-    navigate('/event')
+    navigate('/event');
   }
 
   return (
